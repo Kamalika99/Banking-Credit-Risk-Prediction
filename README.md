@@ -25,13 +25,14 @@ This project focuses on predicting banking customers' credit risk using machine 
 
 ## Technologies Used
 
- Python 
- Pandas
- NumPy
- Matplotlib / Seaborn
- Scikit-learn
- Jupyter Notebook
-
+- Python 
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+- Jupyter Notebook
+  
+---
 ## Workflow Summary
 
 ### 1. Data Exploration and Cleaning
